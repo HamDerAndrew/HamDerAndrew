@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://andrelarsen.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3544B1&center=true&vCenter=true&width=620&lines=Hello+there!+%F0%9F%91%8B;I+build+modern+front-ends+on+Umbraco+CMS;Lit+%C2%B7+TypeScript+%C2%B7+Web+Components;Partner+%40+MWL+%C2%B7+Operations+%40+Umbraco;Umbraco+Certified+Master+%F0%9F%8F%85" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3544B1&center=true&vCenter=true&width=620&lines=Hello+there!+%F0%9F%91%8B;I+build+modern+front-ends+on+Umbraco+CMS;Lit+%C2%B7+TypeScript+%C2%B7+Web+Components;Umbraco+Certified+Master+%F0%9F%8F%85" alt="Typing intro" />
   </a>
 </p>
 
